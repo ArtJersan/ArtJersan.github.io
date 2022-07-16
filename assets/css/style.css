@@ -267,11 +267,29 @@ section {
 .section-title {
   padding-bottom: 30px;
 }
+.section-title2 {
+  padding-bottom: 0px;
+}
+
+.section-title2 h2 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  position: relative;
+  color: #173b6c;
+  text-align: center;
+}
+
+.section-title2 p {
+  margin-bottom: 0;
+}
+
 .section-title h2 {
   font-size: 32px;
   font-weight: bold;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
   position: relative;
   color: #173b6c;
   text-align: center;
@@ -952,4 +970,8 @@ section {
     width: auto;
     padding-right: 20px 15px;
   }
+}
+
+.text-responsive {
+  font-size: calc(100% + 4vw + 4vh);
 }
