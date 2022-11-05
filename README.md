@@ -1,2 +1,3 @@
-# artjersan.github.io
-My web profile
+~ Art Jersan Abellera ~
+
+Simple web profile, showcasing skills and experiences.
